@@ -27,3 +27,6 @@ Dark mode toggle
 
 Shuffled questions/answer
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/d7b606b8-6b29-485b-ad0e-816ccb7a6d21)
+
