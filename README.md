@@ -29,4 +29,6 @@ Shuffled questions/answer
 
 OUTPUT:
 ![Image](https://github.com/user-attachments/assets/d7b606b8-6b29-485b-ad0e-816ccb7a6d21)
+![Image](https://github.com/user-attachments/assets/f3893171-9e9a-4a68-b483-6202ab5253bf)
+
 
